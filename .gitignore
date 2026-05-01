@@ -24,5 +24,6 @@ Thumbs.db
 # Configuraciones de Visual Studio Code
 .vscode/
 
-#evita ignorar la carpeta assets
+#evita ignorar la carpeta img y data
 !img/*.png
+!DockerBurbuja/data/*.txt
