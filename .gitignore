@@ -23,3 +23,6 @@ Thumbs.db
 
 # Configuraciones de Visual Studio Code
 .vscode/
+
+#evita ignorar la carpeta assets
+!img/*.png
