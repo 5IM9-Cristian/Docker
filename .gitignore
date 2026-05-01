@@ -1,0 +1,25 @@
+# Archivos objeto producto de la compilacion(generados en la carpeta obj)
+obj/
+*.o
+
+# Ejecutables
+bin/
+julia
+*.exe
+*.out
+
+# Resultados del Proyecto
+output/
+*.txt
+*.png
+*.pdf
+*.tex
+
+# Docker & Configuración
+# Archivos temporales de Docker y el sistema
+.dockerignore
+.DS_Store
+Thumbs.db
+
+# Configuraciones de Visual Studio Code
+.vscode/
